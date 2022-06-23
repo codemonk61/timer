@@ -1,0 +1,26 @@
+body{
+			height: 100vh;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+		.digit{
+			font-size: 40px;
+		}
+		.txt{
+			font-size: 25px;
+		}
+		.btn{
+			cursor: pointer;
+			border: none;
+			padding: 7px 25px;
+		}
+		#start{
+			background: red;
+		}
+		#stop{
+			background: green;
+		}
+		#reset{
+			background: orange;
+		}
